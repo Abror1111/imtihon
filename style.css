@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+    background-color: #fff;
+    padding: 30px;
+}
+.Brit {
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+    font-size: 30px;
+    margin-left: 140px;
+}
+.lex {
+    font-family: 'Poppins', sans-serif;
+    color: #999;
+    font-size: 30px;
+    margin-right: 200px;
+}
+.nav >a {
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 60px;
+    color: #000;
+    margin-top: 18px;
+}
+.nav >h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+    border: #000 2px solid;
+    border-radius: 5px;
+    padding: 15px 60px;
+    margin-left: 140px;
+}
+.text {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 230px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 169px;
+}
+.text-paragrf >h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+.text-paragrf >p {
+    color: #999;
+    font-size: medium;
+    margin-top: 60px;
+}
+.button {
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgba(3, 3, 12, 0.774);
+    font-size: 35px;
+    padding: 20px 85px;
+    margin-top: 165px;
+}
+.text-img {
+    margin-left: 50px;
+}
+.Skills {
+    display: inline;
+    text-align: center;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Poppins', sans-serif;
+}
+.button-card {
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    padding: 15px 60px;
+    background-color: rgb(25, 14, 48);
+}
+.card-1 {
+    border: 1px solid #999;
+    background-color: #999;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.card-2-1 {
+    border: 1px solid #999;
+    background-color: #999;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.card-2-2 {
+    border: 1px solid #999;
+    background-color: #999;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.card-3-1 {
+    border: 1px solid #999;
+    background-color: #999;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.card-img {
+    margin-left: 0;
+}
+.img-1 >img {
+    margin-left: 100px;
+}
+.text-business >a {
+    color: #000;
+    font-size: 50px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 130px;
+}
+.num {
+    display: inline;
+    text-align: center;
+    margin-right: 130px;
+}
+.button-Pricing {
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #999;
+    font-size: 20px;
+    padding: 20px 50px;
+}
+.Pricing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Poppins', sans-serif;
+}
+.Pricing-card-1 {
+    margin: 30px;
+}
+.Pricing-card-1 >p { 
+   color: #777;
+}
+.Contact {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.Us >h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+    border: #000 2px solid;
+    border-radius: 5px;
+    padding: 15px 40px;
+    display: inline;
+    margin-top: 30px;
+}
+.button-us {
+    margin-top: 30px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgba(3, 3, 12, 0.774);
+    font-size: 35px;
+    padding: 20px 50px;
+}
+.Us >img {
+    display: inline;
+}
